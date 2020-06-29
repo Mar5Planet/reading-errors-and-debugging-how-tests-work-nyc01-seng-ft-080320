@@ -2,6 +2,6 @@
 first_number =2
 second_number =4
 sum= first_number + second_number
-difference= 4-2
+difference= first_number - second_number
 product = 4*2
 quotient = 4/2
